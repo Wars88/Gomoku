@@ -55,13 +55,13 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteBorder: {x: 168, y: 497, z: 168, w: 486}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -148,89 +148,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "\uD770\uC0C9 \uB9C9\uB300\uBC14_0"
+      name: white-bar_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 0
-        width: 1516
-        height: 1024
+        x: 104
+        y: 433
+        width: 1331
+        height: 161
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c463557c654e1eb30800000000000000
-      internalID: 4314980979360216652
+      spriteID: 26ceca3917f83374ab0df3cbfa03f645
+      internalID: 2050324894
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\uD770\uC0C9 \uB9C9\uB300\uBC14_1"
+      name: white-bar_1
       rect:
         serializedVersion: 2
-        x: 1426
-        y: 520
-        width: 6
+        x: 1427
+        y: 521
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b4d7e229695bb49a42124e1bae9b68
+      internalID: -2034152382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-bar_2
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 440
+        width: 5
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5b416d21b74abc8f0800000000000000
-      internalID: -519140483527207755
+      spriteID: 9456d98c40d8922409340d05b6f37c2e
+      internalID: 912137570
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\uD770\uC0C9 \uB9C9\uB300\uBC14_2"
+      name: white-bar_3
       rect:
         serializedVersion: 2
-        x: 1041
-        y: 439
-        width: 7
-        height: 8
+        x: 995
+        y: 201
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a08fc4aa3b44a4d40800000000000000
-      internalID: 5569339427644045322
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "\uD770\uC0C9 \uB9C9\uB300\uBC14_3"
-      rect:
-        serializedVersion: 2
-        x: 994
-        y: 200
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a7cf321150fee47a0800000000000000
-      internalID: -6390908016150709126
+      spriteID: d6d8060ef1cef614daae8f38fb73c7b1
+      internalID: 694417448
       vertices: []
       indices: 
       edges: []
@@ -240,19 +240,21 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
+    internalID: 1537655665
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      "\uD770\uC0C9 \uB9C9\uB300\uBC14_0": 4314980979360216652
-      "\uD770\uC0C9 \uB9C9\uB300\uBC14_1": -519140483527207755
-      "\uD770\uC0C9 \uB9C9\uB300\uBC14_2": 5569339427644045322
-      "\uD770\uC0C9 \uB9C9\uB300\uBC14_3": -6390908016150709126
+      white-bar_0: 2050324894
+      white-bar_1: -2034152382
+      white-bar_2: 912137570
+      white-bar_3: 694417448
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
